@@ -1,0 +1,1 @@
+grep -E -o "[a-zA-Z._-]{1}[a-zA-Z._-]{0,97}[a-zA-Z0-9]@(shaw\.com|shaw\.net)" access_log
